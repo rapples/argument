@@ -6,8 +6,11 @@ Dependencies
 This program requires the following dependencies:
 
 concurrent.futures
+
 openai
+
 string
+
 time
 
 Usage
