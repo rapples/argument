@@ -3,6 +3,7 @@ Argument Clinic AI
 This is a Python program that uses OpenAI's GPT-3 language model to generate arguments based on user input. It creates a conversation where the program takes on the Argument Clinic side of the conversation from the Monty Python sketch.
 
 Dependencies
+
 This program requires the following dependencies:
 
 concurrent.futures
